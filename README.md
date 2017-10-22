@@ -1,0 +1,2 @@
+# Organizedtory
+Inventory management software. 
